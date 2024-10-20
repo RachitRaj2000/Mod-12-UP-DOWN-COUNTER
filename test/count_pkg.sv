@@ -6,7 +6,7 @@ package pkg;
 	`include "gen.sv";
 	`include "count_write_drv.sv";
 	`include "count_write_mon.sv";
-	`include "count_read_mon.sv";
+	`include "count_rd_mon.sv";
 	`include "count_model.sv";
 	`include "count_sb.sv";
 	`include "count_env.sv";
