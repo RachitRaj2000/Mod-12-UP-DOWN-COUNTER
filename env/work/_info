@@ -1,0 +1,46 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home1/BPRN08/RachitRaj/VLSI_RN/SV_LABS/Lab10/env
+T_opt
+!s110 1721884574
+VYRLB1i>35l9R6WFc7e7VA2
+04 4 4 work test fast 0
+=1-000ae431a4f1-66a1df9d-b9097-173ed0
+R0
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OE;O;2022.1;75
+vtest
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1721884572
+!i10b 1
+!s100 >4Hi=_4XH^e5aALNMjb5g1
+Ia9AemfeDH9T`4TSl<4K1z3
+S1
+R1
+w1721884570
+8ram_env.sv
+Fram_env.sv
+!i122 0
+L0 108 24
+VDg1SIo80bB@j0V0VzS_@n1
+OE;L;2022.1;75
+r1
+!s85 0
+31
+!s108 1721884572.000000
+!s107 ram_env.sv|
+!s90 ram_env.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
