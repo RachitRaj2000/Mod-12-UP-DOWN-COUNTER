@@ -1,0 +1,35 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home1/BPRN08/RachitRaj/VLSI_RN/SV_LABS/Lab10/env_lib
+Xram_trans_sv_unit
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1722015653
+VBD3TY@I:Obk8D`[HzojJS1
+r1
+!s85 0
+!i10b 1
+!s100 n2@UVV>DIZTi5heff:_?f3
+IBD3TY@I:Obk8D`[HzojJS1
+!i103 1
+S1
+R0
+w1722015641
+8ram_trans.sv
+Fram_trans.sv
+!i122 0
+L0 125 0
+OE;L;2022.1;75
+31
+!s108 1722015652.000000
+!s107 ram_trans.sv|
+!s90 ram_trans.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
